@@ -134,3 +134,7 @@ Smart-Student-Search-Ranking/
 
 ## Author
 Manav Nalkande, CSE CSF, MIT-WPU
+Vedant Puri, CSE CSF, MIT-WPU
+Bhumil Kiyada, CSE CSF, MIT-WPU
+Soham Nalawade, CSE CSF, MIT-WPU
+Sanskar Thitame, CSE CSF, MIT-WPU
